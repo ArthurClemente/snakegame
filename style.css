@@ -1,6 +1,5 @@
 body {
-    height: 95vh;
-    width: 95vh;
+    margin-top: 170px;
     display: flex;
     justify-content: center;
     align-items: center;
